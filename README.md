@@ -1,5 +1,7 @@
 ## Next.js Tutorial
 
+[Switch to Vietnamese Document](https://github.com/De-Ying-Course/nextjs-tutorial/blob/main/README-VI.md)
+
 Next.js has recently become the official React framework as outlined in the React documentation. In this course, you'll learn the most important Next.js concepts and how they fit into the React ecosystem. Finally, you'll test your skills by building a modern full-stack Next 13 application.
 
 📚 In this project, you'll learn:
